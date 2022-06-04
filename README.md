@@ -1,2 +1,2 @@
-# mars
+# Mars
 Mars Social Media
